@@ -1,12 +1,10 @@
 <?php
 /**
- * Plugin Name: Elementor Hello World
- * Description: Elementor sample plugin.
- * Plugin URI:  https://elementor.com/
+ * Plugin Name: My First Plugin
+ * Description: Elementor example of plugin.
  * Version:     1.1.0
- * Author:      Author Name
- * Author URI:  https://elementor.com/
- * Text Domain: hello-world
+ * Author:      Paulo Sousa
+ * Text Domain: My first Plugin foka
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
